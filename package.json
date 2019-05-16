@@ -8,5 +8,21 @@
     "type": "git"
   },
   "author": "Hany Elbanna <hany@hany.ws>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^2.5.0",
+    "express": "^4.16.4",
+    "graphql": "^14.3.0",
+    "pg": "^7.11.0",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.17"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.2",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
 }
