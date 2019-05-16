@@ -1,0 +1,12 @@
+{
+  "name": "hany-boilerplate",
+  "version": "1.0.0",
+  "description": "My New Node Boilerplate.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/hanyelbanna/hany-boilerplate.git",
+    "type": "git"
+  },
+  "author": "Hany Elbanna <hany@hany.ws>",
+  "license": "MIT"
+}
